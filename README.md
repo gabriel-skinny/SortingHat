@@ -5,4 +5,6 @@ Projeto que simula o chapeu seletor dos filmes de Harry Potter.
 
 - ReactJS
 
+## Tela
 
+<img src="./sotingHat.png" >
